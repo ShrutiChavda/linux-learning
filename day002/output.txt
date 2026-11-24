@@ -1,0 +1,12 @@
+another
+day002.md
+folder
+folder 10
+folder 11
+folder1
+folder12
+folder4
+folder7
+folder8
+folder9
+output.txt

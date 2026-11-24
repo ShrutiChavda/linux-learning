@@ -1,0 +1,3 @@
+I am learning linux
+Linux is an open-source operating system.
+I am practising Linux commands every day.
